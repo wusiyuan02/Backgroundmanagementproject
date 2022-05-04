@@ -1,0 +1,3 @@
+# Backgroundmanagementproject
+Background management project
+这是一个疫情管理系统
